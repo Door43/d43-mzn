@@ -10,6 +10,10 @@
 
   * [[mzn:obs|Open Bible Stories (mzn)]]
 
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mzn|d43-mzn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mzn/archive/master.zip|d43-mzn.zip]]
+
 **Recent Changes**
 {{changes>ns = mzn}}
 
